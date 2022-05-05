@@ -1,2 +1,2 @@
 
-<a href="https://lkrjangid1.github.io/Awesome-Warez/">link text</a>
+<a href="https://lkrjangid1.github.io/Awesome-Warez/">Click here</a>
